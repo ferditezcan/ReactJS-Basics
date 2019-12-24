@@ -32,3 +32,5 @@ Are there any course requirements or prerequisites?
 Nothing as you will be working on a online code editor so it's super convenient.
 Who this course is for:
 Anyone who want to learn React without much knowledge of HTML or CSS.
+
+The course has taken from https://www.udemy.com/course/react-basic-in-just-1-hour/learn/lecture/5042066?start=15#overview
